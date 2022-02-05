@@ -1,0 +1,9 @@
+$(".search").click(function(){
+    $("#search").slideDown()
+});
+$(".cross").click(function(){
+    $("#search").slideUp()
+});
+$(".close").click(function(){
+    $(".close-item").fadeToggle()
+})

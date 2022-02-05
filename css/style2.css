@@ -1,0 +1,27 @@
+.one{
+    width:700px;
+    height: 700px;
+    background: red;
+}
+.two{
+    width: 700px;
+    height: 350px;
+    background: rgb(207, 10, 69);
+}
+.four{
+    width: 350px;
+    height: 350px;
+    background: rgb(12, 9, 180);
+    float: left;
+}
+.five{
+    width: 350px;
+    height: 350px;
+    background: rgb(219, 9, 202);
+    float: left;
+}
+.three{
+    width: 700px;
+    height: 350px;
+    background: rgb(10, 207, 86);
+}
